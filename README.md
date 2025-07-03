@@ -27,4 +27,15 @@ Technology is changing fast, bringing new tools like AI, smart devices, and bloc
 This chapter gave me valuable insights into how technology has evolved from basic computers to advanced systems like AI and IoT. I was amazed by how these innovations are transforming our daily lives and work environments. The content made me realize both the exciting opportunities and challenges these technologies bring, especially regarding job skills and privacy. Moving forward, I understand the importance of staying updated in this fast-changing digital world.
 
 ## ⏳Chapter 2 : Hardware
+This chapter explores the essential physical components that form a computer system and their collaborative functionality.
+
+ > Input/output devices - The interfaces for human-computer interaction
+
+> Storage systems - Technologies for data retention and access
+
+> Processing units - The computational engines driving operations
+
+> Motherboards, RAM, and power supply mechanisms - Motherboards, RAM modules, and power delivery systems
+
+The content demonstrates how these interconnected elements work in harmony to execute computing tasks efficiently.
 
