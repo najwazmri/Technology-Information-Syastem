@@ -45,7 +45,7 @@ The content demonstrates how these interconnected elements work in harmony to ex
 
 <li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/3925dfabf86bc4d1e656810aa628667e7ab10dd8/INDIVIDUAL%20ASSIGNMENT%20TIS/SYAHIDATUL%20NAJWA%20(SX241889ECJHF01).pdf">Group Summary Report</a></li>
 
-## ⏳Chapter 2 : Software
+## ⏳Chapter 3 : Software
 Software is a collection of instructions, programs, or data that enables a computer to operate and perform specific tasks. These instructions are originally written by humans in a human-readable programming language to guide the computer in completing various operations. Unlike hardware, software is intangible and determines how the hardware functions.
 
 There are several types of software:
@@ -59,3 +59,23 @@ There are several types of software:
 🛑 Malicious Software (Malware)
 
 <li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/454ad4096f41ed86f2a4338bce926c924962bc6d/Assigment%20Open-Ended%20Question%20(%20SYAHIDATUL%20NAJWA%20SX241889ECJHF01).pdf">open-ended question</a></li>
+
+## ⏳Chapter 4 : Information System & System Analysis
+Information Systems and System Analysis involve an integrated framework of people, processes, data, and technology working together to collect, process, store, and distribute information. Their main goal is to support informed decision-making, improve coordination and control, and provide analytical and strategic insights within an organization.
+
+## ⏳Chapter 5 : Database and Data Analytics
+Databases and data analytics both center on the organization, storage, and management of data. While databases focus on efficiently storing and retrieving data, data analytics involves interpreting and analyzing that data to uncover patterns, insights, and support decision-making.
+
+## ⏳Chapter 6 : Network and Communications
+Network is the connection of devicce while Communication are the method the devices used to commmunicate among them.
+
+## ⏳Chapter 7 : Privacy, Security, and Ethics
+The need of privacy of each individual privacy and security,also at the same time and adhere to strict ethic
+
+## ⏳Chapter 8 : Cloud Computing
+Cloud computing is the delivery of computing services—such as storage, processing power, and software—over the internet, allowing users to access and manage resources on-demand without the need for physical infrastructure. It offers scalability, flexibility, and cost-efficiency, making it a vital component of modern digital transformation.
+
+## 🏭 Industry Talk
+
+✒️ Navigating the ICT Job Market – Trends, Opportunities, and Skills for Success
+An overview of the evolving ICT job market—both locally and globally—highlighting emerging opportunities and the critical technical and soft skills needed to succeed in the industry.
