@@ -39,3 +39,10 @@ This chapter explores the essential physical components that form a computer sys
 
 The content demonstrates how these interconnected elements work in harmony to execute computing tasks efficiently.
 
+📝 <b>Assignment Tasks:</b>
+<ul>
+<li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/3925dfabf86bc4d1e656810aa628667e7ab10dd8/GROUP%20ASSIGNMENT%20GROUP%202/GROUP%204%20(%20STORAGE%20DEVICES).pdf">Jigsaw (Activity)</a></li>
+
+<li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/3925dfabf86bc4d1e656810aa628667e7ab10dd8/INDIVIDUAL%20ASSIGNMENT%20TIS/SYAHIDATUL%20NAJWA%20(SX241889ECJHF01).pdf">Group Summary Report</a></li>
+
+
