@@ -77,5 +77,18 @@ Cloud computing is the delivery of computing services—such as storage, process
 
 ## 🏭 Industry Talk
 
-✒️ Navigating the ICT Job Market – Trends, Opportunities, and Skills for Success
+<b>✒️ Navigating the ICT Job Market – Trends, Opportunities, and Skills for Success</b>
 An overview of the evolving ICT job market—both locally and globally—highlighting emerging opportunities and the critical technical and soft skills needed to succeed in the industry.
+
+<li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/401ede4820ecc26a49d69a739e8180d207cea914/INDUSTRY%20TALK/Assignment%201%20(Format%20Poster)Navigating%20the%20ICT%20Job%20Market%20.pdf">View Poster PDF</a></li>
+
+<b>✒️ University vs Industry: What Skills Really Matter?</b>
+This session examines the gap between academic learning and industry demands, emphasizing the importance of soft skills and practical, real-world competencies for career readiness.
+
+<li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/401ede4820ecc26a49d69a739e8180d207cea914/INDUSTRY%20TALK/Assignment%202%20(Format%20Reflection)Reflection%20%20-%20Industry%20Talk%203.pdf.pdf">View Poster PDF</a></li>
+
+<b>✒️ Surviving IT Burnout for Work-Life Balance</b>
+A practical discussion on managing stress in the fast-paced IT industry, emphasizing the importance of mental health and maintaining a healthy work-life balance. The session explored common challenges faced by tech professionals, strategies for managing workload, and effective approaches to fostering resilience and sustainable work habits.
+Would you like this adapted into bullet points for a slide or summary format?
+
+<li><a href="
