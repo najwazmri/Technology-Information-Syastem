@@ -45,4 +45,17 @@ The content demonstrates how these interconnected elements work in harmony to ex
 
 <li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/3925dfabf86bc4d1e656810aa628667e7ab10dd8/INDIVIDUAL%20ASSIGNMENT%20TIS/SYAHIDATUL%20NAJWA%20(SX241889ECJHF01).pdf">Group Summary Report</a></li>
 
+## ⏳Chapter 2 : Software
+Software is a collection of instructions, programs, or data that enables a computer to operate and perform specific tasks. These instructions are originally written by humans in a human-readable programming language to guide the computer in completing various operations. Unlike hardware, software is intangible and determines how the hardware functions.
 
+There are several types of software:
+
+🔏 system Software
+
+🤖 Application Software
+
+👩‍💻 Programming Software
+
+🛑 Malicious Software (Malware)
+
+<li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/454ad4096f41ed86f2a4338bce926c924962bc6d/Assigment%20Open-Ended%20Question%20(%20SYAHIDATUL%20NAJWA%20SX241889ECJHF01).pdf">open-ended question</a></li>
