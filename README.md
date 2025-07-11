@@ -84,21 +84,31 @@ Cloud computing is the delivery of computing services—such as storage, process
 
 ## 🏭 Industry Talk
 
-<b>✒️ Navigating the ICT Job Market – Trends, Opportunities, and Skills for Success</b>
+## <b>✒️ Navigating the ICT Job Market – Trends, Opportunities, and Skills for Success</b>
 An overview of the evolving ICT job market—both locally and globally—highlighting emerging opportunities and the critical technical and soft skills needed to succeed in the industry.
 
 <li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/401ede4820ecc26a49d69a739e8180d207cea914/INDUSTRY%20TALK/Assignment%201%20(Format%20Poster)Navigating%20the%20ICT%20Job%20Market%20.pdf">View Poster PDF</a></li>
 
 
 
-<b>✒️ University vs Industry: What Skills Really Matter?</b>
+## <b>✒️ University vs Industry: What Skills Really Matter?</b>
 This session examines the gap between academic learning and industry demands, emphasizing the importance of soft skills and practical, real-world competencies for career readiness.
 
 <li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/401ede4820ecc26a49d69a739e8180d207cea914/INDUSTRY%20TALK/Assignment%202%20(Format%20Reflection)Reflection%20%20-%20Industry%20Talk%203.pdf.pdf">View Poster PDF</a></li>
 
 
-<b>✒️ Surviving IT Burnout for Work-Life Balance</b>
+## <b>✒️ Surviving IT Burnout for Work-Life Balance</b>
 A practical discussion on managing stress in the fast-paced IT industry, emphasizing the importance of mental health and maintaining a healthy work-life balance. The session explored common challenges faced by tech professionals, strategies for managing workload, and effective approaches to fostering resilience and sustainable work habits.
 Would you like this adapted into bullet points for a slide or summary format?
 
-<li><a href="
+<li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/569cd6c08f67abd220793ec28843959876f5c57f/INDUSTRY%20TALK/Assignment%203%20(Format%20Presentation)%20Surviving%20IT%20Burnout%20%20Strategies%20for%20WLB%20in%20Tech.pptx.pdf">View Presentation PDF</a></li>
+
+
+## <b>✒️Generative AI in ICT – Transforming the Future of Innovation</b>
+An exploration of how generative AI is shaping the future of the ICT field, revolutionizing how we work, create, and innovate.The Impact towards modern industries and job .Plus , how to adapt with Generative AI
+
+<li><a href="https://github.com/najwazmri/Technology-Information-Syastem/blob/569cd6c08f67abd220793ec28843959876f5c57f/INDUSTRY%20TALK/Assignment%204%20(Format%20Academic%20Writting)%20ACADEMIC%20WRITING.pdf">View Academic Writting</a></li>
+
+## Reflection on SECP1513-Technology and Information System Course
+🔗 Reflection Essay: My Learning Journey in Technology and Information System (SECP1513)
+
